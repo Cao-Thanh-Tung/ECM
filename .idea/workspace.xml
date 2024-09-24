@@ -4,14 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a050cd47-2ebb-4d00-b752-36fe0e30e27b" name="Changes" comment="tung" />
+    <list default="true" id="a050cd47-2ebb-4d00-b752-36fe0e30e27b" name="Changes" comment="tung">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecm/service/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecm/service/OrderDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecm/service/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ecm/service/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/repository/ProductRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/repository/ProductRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/service/OrderDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/service/OrderDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/element/Menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/element/Menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/page/BrowseCatalog.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/page/BrowseCatalog.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/page/ProductDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/page/ProductDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/model/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/model/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/repository/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/service/ProductService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -23,7 +58,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.MyApplication.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/caoth/OneDrive/Desktop/Chapter5SpringBootMVC_Jpa_Jsp",
@@ -60,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727183577439</updated>
-      <workItem from="1727183578154" duration="422000" />
+      <workItem from="1727183578154" duration="4727000" />
     </task>
     <task id="LOCAL-00001" summary="tung">
       <option name="closed" value="true" />
@@ -70,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727183971117</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tung">
+      <option name="closed" value="true" />
+      <created>1727184027761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727184027761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,5 +139,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tung" />
     <option name="LAST_COMMIT_MESSAGE" value="tung" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ecm/model/OrderDetail.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

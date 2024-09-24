@@ -8,8 +8,9 @@
 <TR>
   <TD BGCOLOR="F6F6F6">
     <FONT FACE="Verdana">Search</FONT>
-    <FORM>
+    <FORM ACTION="/product" method="get">
     <INPUT TYPE="HIDDEN" NAME="action" VALUE="search">
+      <INPUT TYPE="HIDDEN" NAME="categoryId" VALUE="${categoryId}">
     <INPUT TYPE="TEXT" NAME="keyword" SIZE="10">
     <INPUT type="SUBMIT" VALUE="Go">
     </FORM>
