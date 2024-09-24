@@ -4,37 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a050cd47-2ebb-4d00-b752-36fe0e30e27b" name="Changes" comment="tung">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ecm/controller/CartController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ecm/model/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ecm/repository/CartRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ecm/service/CartService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ecm/service/CartServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ecm/controller/CartController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ecm/model/Cart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ecm/repository/CartRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ecm/service/CartService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ecm/service/CartServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="a050cd47-2ebb-4d00-b752-36fe0e30e27b" name="Changes" comment="cap nhat man danh sach">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/element/cake1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/element/cake2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/element/cartimage.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/model/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/model/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/model/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/service/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/service/ProductServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/element/Header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/element/Header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/page/ShoppingCart.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/page/ShoppingCart.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ecm/MyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/MyApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ecm/model/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/model/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ecm/model/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/model/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ecm/model/OrderDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/model/OrderDetail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ecm/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/model/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ecm/repository/CategoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/repository/CategoryRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ecm/repository/OrderDetailRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/repository/OrderDetailRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ecm/repository/OrderRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/repository/OrderRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/page/ProductDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/page/ProductDetails.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,59 +22,64 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 6
-}</component>
-  <component name="ProjectId" id="2mWDjreaf0buhXYBuXNrYWsjoWF" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2mWDjreaf0buhXYBuXNrYWsjoWF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.MyApp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Luvina/SpringMVC/ECM/src/main/resources/img&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.MyApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/caoth/OneDrive/Desktop/Chapter5SpringBootMVC_Jpa_Jsp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Luvina\SpringMVC\ECM\src\main\resources\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Luvina\SpringMVC\ECM\src\main\webapp" />
+      <recent name="C:\Users\caoth\OneDrive\Desktop\Chapter5SpringBootMVC_Jpa_Jsp\src\main\webapp\element" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="MyApp" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="ecm.MyApplication" />
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Chapter9SpringBootJsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ecm.MyApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -107,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727183577439</updated>
-      <workItem from="1727183578154" duration="4727000" />
+      <workItem from="1727183578154" duration="5806000" />
     </task>
     <task id="LOCAL-00001" summary="tung">
       <option name="closed" value="true" />
@@ -125,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727184027761</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="cap nhat man danh sach">
+      <option name="closed" value="true" />
+      <created>1727188449631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727188449631</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +134,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="tung" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="cap nhat man danh sach" />
+    <option name="LAST_COMMIT_MESSAGE" value="cap nhat man danh sach" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

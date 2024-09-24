@@ -1,3 +1,7 @@
+<%
+  String base = (String) application.getAttribute("base");
+  String imageUrl = (String) application.getAttribute("imageUrl");
+%>
 <TABLE WIDTH="740" CELLPADDING="0"
   HEIGHT="75" CELLSPACING="0" BORDER="0">
 <TR>
