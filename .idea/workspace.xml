@@ -5,13 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a050cd47-2ebb-4d00-b752-36fe0e30e27b" name="Changes" comment="cap nhat man danh sach">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/element/cake1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/element/cake2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/element/cartimage.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/element/Header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/element/Header.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/page/ProductDetails.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/page/ProductDetails.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/model/OrderDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/model/OrderDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ecm/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ecm/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/DTO/CartItemDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/DTO/CartItemDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/MyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/MyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/controller/CartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/controller/CartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/controller/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/controller/CategoryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/model/Cart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/model/Cart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/model/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/model/Category.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/model/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/model/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/model/OrderDetail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/model/OrderDetail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/model/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/model/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/repository/CartRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/repository/CartRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/repository/CategoryRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/repository/CategoryRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/repository/OrderDetailRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/repository/OrderDetailRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/repository/OrderRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/repository/OrderRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/repository/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/repository/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/service/CartService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/service/CartService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/service/CartServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/service/CartServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/service/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/service/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/service/OrderDetailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/service/OrderDetailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/service/OrderDetailServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/service/OrderDetailServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/service/OrderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/service/OrderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/service/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/service/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ecm/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ecm/service/ProductServiceImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,10 +54,13 @@
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2mWDjreaf0buhXYBuXNrYWsjoWF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +74,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.MyApplication.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "cartBranch",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/caoth/OneDrive/Desktop/Chapter5SpringBootMVC_Jpa_Jsp",
     "node.js.detected.package.eslint": "true",

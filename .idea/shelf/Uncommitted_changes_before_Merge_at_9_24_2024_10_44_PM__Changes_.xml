@@ -1,0 +1,69 @@
+<changelist name="Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]" date="1727192725413" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Merge at 9/24/2024 10:44 PM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/model/Cart.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/model/Cart.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/Cart.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/model/Order.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/model/Order.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/Order.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/model/Category.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/model/Category.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/Category.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/service/ProductServiceImpl.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/service/ProductServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/ProductServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/service/OrderDetailServiceImpl.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/service/OrderDetailServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/OrderDetailServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/service/OrderDetailService.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/service/OrderDetailService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/OrderDetailService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/model/Product.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/model/Product.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/Product.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/service/CartService.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/service/CartService.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/CartService.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/service/CartServiceImpl.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/service/CartServiceImpl.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/CartServiceImpl.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/DTO/CartItemDTO.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/DTO/CartItemDTO.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/CartItemDTO.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/repository/CartRepository.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/repository/CartRepository.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/CartRepository.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/repository/OrderDetailRepository.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/repository/OrderDetailRepository.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/OrderDetailRepository.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/classes/ecm/controller/CartController.class" />
+    <option name="AFTER_PATH" value="target/classes/ecm/controller/CartController.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_9_24_2024_10_44_PM_[Changes]/CartController.class" />
+  </binary>
+</changelist>

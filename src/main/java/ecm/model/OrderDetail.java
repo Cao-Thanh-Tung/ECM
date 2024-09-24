@@ -12,7 +12,7 @@ public class OrderDetail {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private int id;
+    private int orderDetailId;
 
     private int orderId;
 
