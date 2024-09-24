@@ -47,4 +47,5 @@ public class ProductServiceImpl implements ProductService {
     public List<Product> findByKeyword(String keyword, int categoryId) {
         return productRepository.findByKeywordAndCategoryId(keyword, categoryId);
     }
+
 }
