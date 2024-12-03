@@ -9,8 +9,8 @@
     <FONT FACE="Verdana" SIZE="4">Burnaby e-Mall</FONT>
   </TD>
   <TD ALIGN="RIGHT" BGCOLOR="F6F6F6">
-    <A HREF="<%=base%>?action=displayShoppingCart"><IMG
-      BORDER="0" SRC="/element/cartimage.jpg" height="50" width="50"></A>
+    <A HREF="/cart?action=displayShoppingCart"><IMG
+      BORDER="0" width="30" height="30" src="../img/cart.png"></A>
     &nbsp;&nbsp;&nbsp;
   </TD>
 </TR>
